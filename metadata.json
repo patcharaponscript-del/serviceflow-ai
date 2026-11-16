@@ -1,0 +1,6 @@
+{
+  "name": "ServiceFlow AI",
+  "description": "เว็บแอปช่วยช่างแอร์อิสระเปลี่ยนข้อความลูกค้าจาก LINE ให้เป็นใบงาน จัดการคิวงาน รายชื่อลูกค้า และติดตามงานได้อย่างรวดเร็ว",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
